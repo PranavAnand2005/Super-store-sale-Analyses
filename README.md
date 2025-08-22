@@ -31,7 +31,7 @@ This project provides **business intelligence dashboards** for:
 ---
 
 ## **📷 Dashboard Previews**
-### **Sales Analysis Dashboard**![image](https://user-
+### **Sales Analysis Dashboard**
 <img width="1278" height="716" alt="Screenshot 2025-08-22 215948" src="https://github.com/user-attachments/assets/e00c9a18-23ba-4b97-85ea-3bb318bfd5b3" />
 
 ### **Sales Forecast Dashboard**
