@@ -1,7 +1,6 @@
 # Super-store-sale-Analyses
 
-[![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)  
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
+[![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-blue)](https://github.com/PranavAnand2005/Super-store-sale-Analyses/pulls)
 
 An **interactive sales analysis and forecasting project** built using **Power BI**, designed to uncover insights into **sales performance, profitability trends, and short-term forecasting** for a Super Store dataset.
