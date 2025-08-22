@@ -18,7 +18,10 @@ This project provides **business intelligence dashboards** for:
 ---
 
 ## **📂 Repository Structure**
-
+├── README.md # Project documentation
+├── SuperStore Sales DataSet.xlsx # Original dataset (Excel format)
+├── SuperStore_Sales_Dataset.csv # Dataset in CSV format
+├── blue bg.jpg # Dashboard background image
 
 ---
 
@@ -32,10 +35,11 @@ This project provides **business intelligence dashboards** for:
 
 ## **📷 Dashboard Previews**
 ### **Sales Analysis Dashboard**
-<img width="1278" height="716" alt="Screenshot 2025-08-22 215948" src="https://github.com/user-attachments/assets/e00c9a18-23ba-4b97-85ea-3bb318bfd5b3" />
+![Sales Dashboard](https://github.com/user-attachments/assets/715ab5aa-7f17-4ce1-b704-4bd232cc83d8)
 
 ### **Sales Forecast Dashboard**
-![Sales Forecast](https://github.com/PranavAnand2005/Super-store-sale-Analyses/blob/main/screenshots/sales_forecast.png)
+![Sales Forecast](https://github.com/user-attachments/assets/4bf19ffb-5d47-44c3-bd45-7020893884f5)
+
 
 ---
 
